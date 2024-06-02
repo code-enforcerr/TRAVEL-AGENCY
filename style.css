@@ -1,5 +1,5 @@
-body{
-  background-color: rgb(229,229,229);
+body {
+  background-color: rgb(229, 229, 229);
   font-family: "Ubuntu Sans", sans-serif;
 }
 
@@ -11,7 +11,7 @@ body{
   z-index: 1000;
 }
 
-.navbar-nav{
+.navbar-nav {
   margin: 0 auto;
   font-weight: 200;
   font-size: 15px;
@@ -58,21 +58,21 @@ button {
   justify-content: center;
 }
 
-.hero-section-2 h2{
-    font-size: 40px;
-    margin-left: 90px;
-    color: rgb(1,64,46);
-  }
-  
-  .hero-section-2 h6 {
-    margin-left: 90px !important;
-    font-weight: 300;
-    color: gray;
-  }
-  
-  .hero-section-2 button{
-    margin-left: 90px !important;
-  }
+.hero-section-2 h2 {
+  font-size: 40px;
+  margin-left: 90px;
+  color: rgb(1, 64, 46);
+}
+
+.hero-section-2 h6 {
+  margin-left: 90px !important;
+  font-weight: 300;
+  color: gray;
+}
+
+.hero-section-2 button {
+  margin-left: 90px !important;
+}
 
 .img-section {
   display: grid;
@@ -80,12 +80,12 @@ button {
 }
 
 .img-section h2 {
-    font-size: 30px;
-    margin: 400px 0 0 0;
-    color: whitesmoke;
-    font-weight: 400;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-  }
+  font-size: 30px;
+  margin: 400px 0 0 0;
+  color: whitesmoke;
+  font-weight: 400;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
 
 #hero-sub1 {
   background-image: url(images/Craft\ your\ summer.webp);
@@ -118,84 +118,81 @@ button {
   font-size: 20px;
 }
 
-.section-3{
-   display: grid;
-   justify-content: center;
-   margin-top: 90px;
+.section-3 {
+  display: grid;
+  justify-content: center;
+  margin-top: 90px;
 }
 
-.section-3 h2{
-    font-size: 25px;
-    font-weight: 500;
-    color: rgb(1,64,46);
+.section-3 h2 {
+  font-size: 25px;
+  font-weight: 500;
+  color: rgb(1, 64, 46);
 }
 
-.section-3 h6{
-    font-weight: 300;
-    color: gray;
+.section-3 h6 {
+  font-weight: 300;
+  color: gray;
 }
 
-.section-4{
-    background-image: url(images/Promo\ banner\ section\ 4.webp);
-    background-size: cover;
-    height: 40vh;
-    object-fit: cover;
-    text-align: center;
-    margin: 30px 0 0 0;
+.section-4 {
+  background-image: url(images/Promo\ banner\ section\ 4.webp);
+  background-size: cover;
+  height: 40vh;
+  object-fit: cover;
+  text-align: center;
+  margin: 30px 0 0 0;
 }
 
-.section-4 h2{
-    color: whitesmoke;
-    font-size: 50px;
-   padding: 50px;
-    
+.section-4 h2 {
+  color: whitesmoke;
+  font-size: 50px;
+  padding: 50px;
 }
 
-.section-5{
-    text-align: center;
-    margin: 40px 0 0 0;
-    
+.section-5 {
+  text-align: center;
+  margin: 40px 0 0 0;
 }
 
-.section-5 h2{
-    font-size: 35px;
-    color: rgb(1,64,46);
-    
+.section-5 h2 {
+  font-size: 35px;
+  color: rgb(1, 64, 46);
 }
 
-.section-5 h6{
-    font-weight: 300;
-    color: gray;
+.section-5 h6 {
+  font-weight: 300;
+  color: gray;
 }
-.btn2{
-    width: 300px;
-    font-size: 12px;
-}
-
-.btn1{
-    width: 260px;
-    font-size: 12px;
-    background-color: white;
-    border: 2px solid rgb(1, 64, 46);
-    color: rgb(1, 64, 46);
+.btn2 {
+  width: 300px;
+  font-size: 12px;
 }
 
-.section5-img{
-    display: grid;
-    grid-template-columns: repeat(3, 2fr);
-    justify-content: center;
-    padding: 100px;
+.btn1 {
+  width: 260px;
+  font-size: 12px;
+  background-color: white;
+  border: 2px solid rgb(1, 64, 46);
+  color: rgb(1, 64, 46);
 }
 
-.same-size{
-    width: 400px;
-    height: 300px;
-    object-fit: cover;
-    position: relative;
+.section5-img {
+  display: grid;
+  grid-template-columns: repeat(3, 2fr);
+  justify-content: center;
+  padding: 100px;
 }
 
-#sub-section5{
-  background-color: rgb(1,64,46);
+.same-size {
+  width: 400px;
+  height: 300px;
+  object-fit: cover;
+  position: relative;
+}
+
+#sub-section5 {
+  background-color: rgb(1, 64, 46);
   color: whitesmoke;
   width: 330px;
   height: 250px;
@@ -204,20 +201,18 @@ button {
   align-content: center;
 }
 
-.card{
+.card {
   border: none;
-  background-color: rgb(229,229,229);
-  
+  background-color: rgb(229, 229, 229);
 }
 .card img {
   margin: 0 auto;
-
 }
 #sub-section5 {
   margin: 0 auto;
   top: -50px;
 }
-#sub-section5 h6{
+#sub-section5 h6 {
   font-size: 12px;
   font-weight: 200;
 }
@@ -227,13 +222,13 @@ button {
   height: 70%;
 }
 
-#sub-section5 h2{
+#sub-section5 h2 {
   font-size: 20px;
   font-weight: 500;
 }
 
-.Discover{
-  background-color: rgb(54,134,110);
+.Discover {
+  background-color: rgb(54, 134, 110);
   width: 100%;
   height: 30%;
   text-align: center;
@@ -241,13 +236,13 @@ button {
   font-size: 12px;
 }
 
-.carousel-item{
+.carousel-item {
   max-width: 700px;
   object-fit: cover;
   height: 500px;
 }
 
-.des-france{
+.des-france {
   background-color: white;
   height: 70%;
   width: 50%;
@@ -257,23 +252,23 @@ button {
   margin: 30px 0 0 540px;
 }
 
-.des-france h2{
+.des-france h2 {
   font-size: 30px;
   font-weight: 300;
-  color: rgb(1,64,46);
+  color: rgb(1, 64, 46);
 }
 
-.des-france h6{
+.des-france h6 {
   font-size: 12px;
   font-weight: 300;
   color: gray;
 }
 
-.btn-btn{
+.btn-btn {
   margin: auto;
 }
 
-.carousel-section{
+.carousel-section {
   display: flex !important;
   flex-direction: row;
   align-content: center;
@@ -282,7 +277,7 @@ button {
   justify-content: center;
 }
 
-#carouselExampleSlidesOnly{
+#carouselExampleSlidesOnly {
   position: absolute;
   margin-right: 550px;
   overflow: hidden;
@@ -290,28 +285,28 @@ button {
   width: 40%;
 }
 
-.card-header{
+.card-header {
   text-align: center;
   margin: 200px 0 0 0;
   background-color: none;
 }
 
-.cards-1{
+.cards-1 {
   display: grid;
   width: 90vw;
   height: 400px;
-  grid-template-columns: repeat(6,180px);
+  grid-template-columns: repeat(6, 180px);
   gap: 30px;
-  padding-inline:50px;
+  padding-inline: 50px;
   justify-content: center;
   margin: 100px 0 0 70px;
 }
 
-.card img{
+.card img {
   width: 90%;
 }
 
-.card-body{
+.card-body {
   background-color: white;
   height: 5px !important;
   text-align: center;
@@ -321,21 +316,21 @@ button {
   color: rgb(1, 64, 46);
 }
 
-.cards-head h2{
+.cards-head h2 {
   text-align: center;
   font-size: 40px;
   margin-top: 150px;
-  color: rgb(1,64,46);
+  color: rgb(1, 64, 46);
 }
 
-.guests h2{
-  color: rgb(1,64,46);
+.guests h2 {
+  color: rgb(1, 64, 46);
   text-align: center;
   font-size: 35px;
   margin-top: 60px;
 }
 
-.guest-container{
+.guest-container {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   text-align: center;
@@ -343,88 +338,87 @@ button {
   padding: 70px;
 }
 
-.guest-container span h2{
+.guest-container span h2 {
   font-size: 12px;
   font-weight: 500;
   margin-bottom: 30px;
 }
 
-#comment{
-  background-color: rgb(1,64,46);
+#comment {
+  background-color: rgb(1, 64, 46);
   color: whitesmoke;
   height: auto;
   width: auto;
 }
 
-#comment h6{
+#comment h6 {
   font-size: 14px;
   font-weight: 200;
   margin: 40px 0 25px 0;
 }
 
-.cont{
+.cont {
   background-image: url(images/footer\ background.png);
   color: white;
   margin: 60px 0 0 0;
 }
 
-.sub-footer{
+.sub-footer {
   display: grid;
   grid-template-columns: repeat(2, 2fr);
   justify-content: center;
 }
 
-#h2{
+#h2 {
   margin-top: 80px;
   text-align: center;
 }
 
-#sub-footer{
+#sub-footer {
   display: flex;
   margin: 40px 0 0 0;
-  
 }
 
-#sub-footer img{
+#sub-footer img {
   border-radius: 100px;
   border: 2px solid white;
   margin-top: 40px;
 }
 
-#sub-footer span{
+#sub-footer span {
   margin-left: 50px;
 }
 
-#sub-footer h6{
+#sub-footer h6 {
   font-size: 13px;
   font-weight: 200;
 }
 
-#sub-footer h2{
+#sub-footer h2 {
   font-size: 20px;
 }
 
-.call{
-  background-color: rgb(1,64,46);
+.call {
+  background-color: rgb(1, 64, 46);
   height: 100px;
   width: 100%;
   color: white;
   text-align: center;
 }
 
-.call h6{
- margin: 100px 0 0 0;
- text-align: center;
- padding: 40px;
- font-weight: 300;
-}
-
-.why{
+.call h6 {
+  margin: 100px 0 0 0;
   text-align: center;
-  margin: 40px 0 0 0 ;
+  padding: 40px;
+  font-weight: 300;
 }
 
-.plan-vacay{
+.why {
+  text-align: center;
+  margin: 40px 0 0 0;
+}
+
+.plan-vacay {
   background-image: url(images/vacay\ background.webp);
   object-fit: cover;
   background-repeat: no-repeat;
@@ -433,7 +427,7 @@ button {
   padding: 100px;
 }
 
-.sub-vacay{
+.sub-vacay {
   background-color: rgb(1, 64, 46);
   height: 45vh;
   width: 35%;
@@ -441,99 +435,579 @@ button {
   color: white;
   padding: 50px;
   margin: auto;
-
 }
 
-.sub-vacay h6{
+.sub-vacay h6 {
   font-size: 13px;
   font-weight: 200;
   margin: 40px 0 20px 0;
 }
 
-.sub-vacay button{
+.sub-vacay button {
   margin: 10px 0 0 0;
 }
 
-input{
-  padding:0 15px 0 15px;
+input {
+  padding: 0 15px 0 15px;
   height: 50px;
   width: 530px;
   border: 1px solid white;
   margin: 0 0 20px 0;
 }
 
-.foot-btn{
+.foot-btn {
   margin: auto;
   width: 300px;
 }
 
-.foot-h6{
+.foot-h6 {
   font-size: 13px;
   margin: 25px 0 0 0;
 }
 
-.foot-logo img{
+.foot-logo img {
   margin: 25px 0 0 0;
 }
 
-.footer{
+.footer {
   height: 60vh;
-  background-color: rgb(1,64,46);
+  background-color: rgb(1, 64, 46);
   color: whitesmoke;
   padding: 50px 0;
- 
 }
 
-.foot-ul{
+.foot-ul {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
 }
 
-.foot-ul ul li{
+.foot-ul ul li {
   list-style: none;
   font-weight: 200;
   font-size: 13px;
 }
 
-.foot-letter{
+.foot-letter {
   margin: 0 0 0 30px;
-  
 }
 
-.foot-letter h6{
+.foot-letter h6 {
   font-size: 13px;
-  font-weight:200 ;
+  font-weight: 200;
 }
 
-.foot-letter h2{
+.foot-letter h2 {
   font-size: 30px;
 }
 
-.icons{
-  background-color: rgb(1,64,46);
+.icons {
+  background-color: rgb(1, 64, 46);
   display: flex;
   justify-content: end;
   padding-inline: 40px;
- 
 }
 
-.icons img{
+.icons img {
   height: 35px;
   margin-left: 10px;
-  
 }
 
-.copy{
-  background-color: rgb(1,64,46);
+.copy {
+  background-color: rgb(1, 64, 46);
   height: 10vh;
   text-align: end;
   font-size: 12px;
   color: whitesmoke;
   padding-inline: 40px;
+}
+
+@media (max-width: 480px) {
+  .hero-section {
+    background-image: url(images/Hero\ Ambient.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+    object-fit: cover;
+    padding: 30px;
+    width: 100%;
+  }
+
+  .hero-text {
+    color: whitesmoke;
+    font-size: 400px;
+    font-weight: 500;
+    margin: 150px 0 0 0;
+  }
+
+  .hero-text h2 {
+    font-size: 40px;
+  }
+
+  .btn-hero {
+    display: grid;
+    grid-template-columns: repeat(2, 2fr);
+    margin: auto;
+    gap: 7px;
+  }
+
+  button {
+    height: 50px;
+    width: 150px;
+    padding: 10px;
+    font-size: 12px;
+    background-color: rgb(254, 156, 156);
+    border: rgb(254, 156, 156);
+    margin-left: 0;
+    grid-template-columns: repeat(1) 1fr;
+  }
+
+  .hero-section-2 {
+    display: grid;
+    grid-template-columns: 1fr;
+    margin: 0 0 30px 0;
+  }
+
+  .hero-section-2 h2 {
+    font-size: 40px;
+    margin-left: 50px;
+    margin-top: 20px;
+    color: rgb(1, 64, 46);
+  }
+
+  .hero-section-2 h6 {
+    margin-left: 50px !important;
+    font-weight: 300;
+    color: gray;
+  }
+
+  .hero-section-2 button {
+    margin-left: 50px !important;
+  }
+
+  .img-section {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 30px;
+    margin: 20px 0 0 43px;
+  }
+
+  .img-section h2 {
+    font-size: 30px;
+    margin: 400px 0 0 0;
+    color: whitesmoke;
+    font-weight: 400;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+
+  #hero-sub1 {
+    background-image: url(images/Craft\ your\ summer.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    height: 500px;
+    width: 100vw;
+    margin-right: 44px;
+    font-size: 20px;
+    object-fit: cover;
+  }
+
+  #hero-sub2 {
+    background-image: url(images/luxury\ family.webp);
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 500px;
+    width: 100vw;
+    margin-right: 44px;
+    font-size: 20px;
+    background-size: cover;
+  }
+
+  #hero-sub3 {
+    background-image: url(images/luxury\ african\ safari.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    height: 500px;
+    width: 100vw;
+    margin-right: 44px;
+    font-size: 20px;
+  }
+
+  .section-3 {
+    display: grid;
+    justify-content: center;
+    margin-top: 90px;
+    padding-inline: 10px;
+  }
+
+  .section-3 h2 {
+    font-size: 20px;
+    font-weight: 500;
+    color: rgb(1, 64, 46);
+  }
+
+  .section-3 h6 {
+    font-weight: 300;
+    color: gray;
+  }
+
+  .section-4 {
+    background-image: url(images/Promo\ banner\ section\ 4.webp);
+    background-size: cover;
+    height: 40vh;
+    object-fit: cover;
+    text-align: center;
+    margin: 30px 0 0 0;
+    padding: 90px 0 0 0;
+  }
+
+  .section-4 h2 {
+    color: whitesmoke;
+    font-size: 21px;
+    padding: 0;
+  }
+
+  .btn2 {
+    width: 250px;
+    font-size: 10px;
+  }
+
+  .section-5 {
+    text-align: center;
+    margin: 40px 0 0 0;
+  }
+
+  .section-5 h2 {
+    font-size: 25px;
+    color: rgb(1, 64, 46);
+    margin-bottom: 0;
+  }
+
+  .section-5 h6 {
+    font-weight: 300;
+    color: gray;
+  }
+  .btn2 {
+    width: 300px;
+    font-size: 12px;
+  }
+
+  .btn1 {
+    width: 260px;
+    font-size: 12px;
+    background-color: white;
+    border: 2px solid rgb(1, 64, 46);
+    color: rgb(1, 64, 46);
+  }
+
+  .section5-img {
+    display: grid;
+    grid-template-columns: repeat(1, 2fr);
+    padding: 0;
+  }
+
+  .same-size {
+    width: 350px !important;
+    height: 300px;
+    object-fit: cover;
+    position: relative;
+  }
+
+  #sub-section5 {
+    background-color: rgb(1, 64, 46);
+    color: whitesmoke;
+    width: 330px;
+    height: 250px;
+    margin: -60px 20px 0 35px;
+    position: relative;
+    align-content: center;
+  }
+
+  .card {
+    border: none;
+    background-color: rgb(229, 229, 229);
+  }
+  .card img {
+    margin: 0 auto;
+  }
+  #sub-section5 {
+    margin: 0 auto;
+    top: -50px;
+  }
+  #sub-section5 h6 {
+    font-size: 12px;
+    font-weight: 200;
+  }
+
+  .wrd-ctn {
+    padding: 25px;
+    height: 70%;
+  }
+
+  #sub-section5 h2 {
+    font-size: 20px;
+    font-weight: 500;
+  }
+
+  .Discover {
+    background-color: rgb(54, 134, 110);
+    width: 100%;
+    height: 30%;
+    text-align: center;
+    padding: 30px;
+    font-size: 12px;
+  }
+
+  .carousel-item {
+    max-width: 700px;
+    object-fit: cover;
+    height: 500px;
+  }
+  
+  .des-france {
+    background-color: white;
+    height: 100vh;
+    width: 100%;
+    font-size: 20px;
+    padding: 20px;
+    position: none;
+    margin: 840px 0 300px 0;
+  }
+  
+  .des-france h2 {
+    font-size: 30px;
+    font-weight: 300;
+    color: rgb(1, 64, 46);
+  }
+  
+  .des-france h6 {
+    font-size: 12px;
+    font-weight: 300;
+    color: gray;
+  }
+  
+  .btn-btn {
+    margin: auto;
+  }
+  
+  .carousel-section {
+    display: flex !important;
+    flex-direction: column !important;
+    align-content: center;
+    width: 100%;
+    height: 50vh;
+    justify-content: center;
+  }
+  
+  #carouselExampleSlidesOnly {
+    position: none;
+    margin-right: 550px;
+    overflow: hidden;
+    height: 50%;
+    width: 100%;
+  }
+
+  .card-header {
+    text-align: center;
+    margin: 200px 0 0 0;
+    background-color: none;
+  }
+  
+  .cards-1 {
+    display: grid;
+    width: 90vw;
+    height: 400px;
+    grid-template-columns: repeat(2, 180px);
+    gap: 10px;
+    padding: 20px !important;
+    justify-content: center;
+    margin: 30px 0 0 10px;
+  }
+  
+  .card img {
+    width: 80%;
+  }
+  
+  .card-body {
+    background-color: white;
+    height: 15px !important;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    font-size: 13px;
+    color: rgb(1, 64, 46);
+  }
+  
+  .cards-head h2 {
+    text-align: center;
+    font-size: 35px;
+    margin-top: 350px;
+    color: rgb(1, 64, 46);
+  }
+  
+
+  .guests h2{
+    margin-top: 610px;
+    font-size: 40px;
+    font-weight: 400;
+  }
+
+  .guest-container {
+    display: grid;
+    grid-template-columns: repeat(1, 2fr);
+    text-align: center;
+    gap: 40px;
+    padding: 0;
+    margin: 60px 40px 0 40px ;
+  }
+  
+  .guest-container span h2 {
+    font-size: 12px;
+    font-weight: 500;
+    margin-bottom: 30px;
+  }
+  
+  #comment {
+    background-color: rgb(1, 64, 46);
+    color: whitesmoke;
+    height: auto;
+    width: auto;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  #comment h6 {
+    font-size: 14px;
+    font-weight: 200;
+    margin: 40px 0 25px 0;
+  }
+
+  .cont {
+    background-image: url(images/footer\ background.png);
+    color: white;
+    margin: 60px 0 0 0;
+  }
+  
+  .sub-footer {
+    display: grid;
+    grid-template-columns: repeat(1, 2fr);
+    justify-content: center;
+    padding: 30px;
+  }
+  
+  #h2 {
+    margin-top: 80px;
+    text-align: center;
+  }
+  
+  #sub-footer {
+    display: flex;
+    margin: 40px 0 0 0;
+  }
+  
+  #sub-footer img {
+    border-radius: 100px;
+    border: 2px solid white;
+    margin-top: 40px;
+  }
+  
+  #sub-footer span {
+    margin-left: 30px;
+  }
+  
+  #sub-footer h6 {
+    font-size: 13px;
+    font-weight: 200;
+  }
+  
+  #sub-footer h2 {
+    font-size: 20px;
+  }
+  
+  .call {
+    background-color: rgb(1, 64, 46);
+    height: 100px;
+    width: 100%;
+    color: white;
+    text-align: center;
+  }
+  
+  .call h6 {
+    margin: 100px 0 0 0;
+    text-align: center;
+    padding: 40px;
+    font-weight: 300;
+  }
+
+  .plan-vacay {
+    background-image: url(images/vacay\ background.webp);
+    object-fit: cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+    width: 100%;
+    padding: 50px;
+    padding-inline: 0;
+  }
+  
+  .sub-vacay {
+    background-color: rgb(1, 64, 46);
+    height: 350px;
+    width: 300px;
+    text-align: center;
+    color: white;
+    padding: 40px;
+    margin: auto;
+  }
 
 }
 
+/* @media (max-width: 800px) {
+
+  .hero-section {
+    background-image: url(images/Hero\ Ambient.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+    object-fit: cover;
+    padding: 10px;
+    width: 100%;
+  }
+  
+  .hero-text {
+    color: whitesmoke;
+    font-size: 300px;
+    font-weight: 500;
+    margin: 150px 0 0 10px;
+  }
+  
+  .hero-text h2 {
+    font-size: 40px;
+    padding-inline: 15px;
+  }
+
+  .hero-text h6 {
+    padding-inline: 15px;
+  }
+  
+  button {
+    height: 50px;
+    width: 150px;
+    padding: 10px;
+    font-size: 12px;
+    background-color: rgb(254, 156, 156);
+    border: rgb(254, 156, 156);
+    margin-left: 0;
+  }
 
 
+  
+  .btn-hero{
+    display: grid;
+    grid-template-columns: repeat(2, 2fr);
+    grid-row: 2;
+    margin: auto;
+    gap: 7px;
+    padding-inline: 20px;
+  }
 
-
+} */
